@@ -544,6 +544,7 @@ rgba(46, 47, 66, 0.7)), url(../images/main-hero-bg.jpeg);
 }
 .form-textarea {
 	resize: none;
+	height: 120px;
 }
 .form-input {
   height: 40px;
